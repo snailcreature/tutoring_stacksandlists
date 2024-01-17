@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StacksAndLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735657da5d2860b2a631e81b41fcfe8b58007309")]
 [assembly: System.Reflection.AssemblyProductAttribute("StacksAndLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StacksAndLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

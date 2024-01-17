@@ -1,0 +1,15 @@
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/bin/Debug/net8.0/StacksAndLists
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/bin/Debug/net8.0/StacksAndLists.deps.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/bin/Debug/net8.0/StacksAndLists.runtimeconfig.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/bin/Debug/net8.0/StacksAndLists.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/bin/Debug/net8.0/StacksAndLists.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.AssemblyInfoInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.AssemblyInfo.cs
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.csproj.CoreCompileInputs.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.sourcelink.json
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/refint/StacksAndLists.dll
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.pdb
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/StacksAndLists.genruntimeconfig.cache
+/Users/samdrage/Documents/Tutoring/CompSci/C#/stacksandlists/StacksAndLists/obj/Debug/net8.0/ref/StacksAndLists.dll
